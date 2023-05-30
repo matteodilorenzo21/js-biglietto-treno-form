@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    background-image: url("https://images.wallpaperscraft.com/image/single/train_mountains_aerial_view_148001_3840x2160.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    height: 80px;
+    background-color: #DE002F;
+}
+
+.bg-ghost {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
